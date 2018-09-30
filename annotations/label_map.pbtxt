@@ -1,14 +1,29 @@
 item {
   id: 1
-  name: 'snitch'
+  name: 'Convolvulus-poly'
 }
 
 item {
   id: 2
-  name: 'quaffle'
+  name: 'Fallopia-Convolvulus-poly'
 }
 
 item {
   id: 3
-  name: 'bludger'
+  name: 'Peel-poly'
+}
+
+item {
+  id: 4
+  name: 'Agrostemma-poly'
+}
+
+item {
+  id: 5
+  name: 'Wheat-grain-damaged-poly'
+}
+
+item {
+  id: 6
+  name: 'Wheat-grain-poly'
 }

@@ -23,6 +23,10 @@ import functools
 
 import tensorflow as tf
 
+import sys
+sys.path.append("..")
+sys.path.append("../slim")
+
 from object_detection.builders import optimizer_builder
 from object_detection.builders import preprocessor_builder
 from object_detection.core import batcher
