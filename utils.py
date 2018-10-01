@@ -252,23 +252,21 @@ def img2numpy(parent):
 
 def video2im(src, dst):
     """
-	Extracts all frames from a video and saves them as jpgs
-	"""
-
-
-cap = cv2.VideoCapture(src)
-length = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-print(length)
-frame = 0
-while True:
-    check, img = cap.read()
-    if check:
-        cv2.imwrite(os.path.join(dst, "%d.jpg") % frame, img)
-        frame += 1
-        print(frame, end='\r')
-    else:
-        break
-cap.release()
+    Extracts all frames from a video and saves them as jpgs
+    """
+    cap = cv2.VideoCapture(src)
+    length = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    print( length )
+    frame = 0
+    while True:
+        check, img = cap.read()
+        if check:
+            cv2.imwrite(os.path.join(dst,"%d.jpg") %frame, img)
+            frame += 1
+            print(frame, end = '\r')
+        else:
+            break
+    cap.release()
 
 from cv2 import VideoWriter, VideoWriter_fourcc
 
