@@ -1,0 +1,52 @@
+<annotation>
+<folder>train</folder>
+<filename>_DSC4174_3RituhGEOq.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>159</xmax>
+		<ymin>159</ymin>
+		<ymax>221</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>296</xmax>
+		<ymin>296</ymin>
+		<ymax>419</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>107</xmin>
+		<xmax>281</xmax>
+		<ymin>281</ymin>
+		<ymax>392</ymax>
+	</bndbox>
+</object>
+</annotation>

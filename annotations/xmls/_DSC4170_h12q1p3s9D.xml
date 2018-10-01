@@ -1,0 +1,26 @@
+<annotation>
+<folder>train</folder>
+<filename>_DSC4170_h12q1p3s9D.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Wheat-grain-damaged-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>295</xmax>
+		<ymin>295</ymin>
+		<ymax>342</ymax>
+	</bndbox>
+</object>
+</annotation>
