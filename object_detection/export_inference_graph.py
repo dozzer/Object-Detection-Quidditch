@@ -66,10 +66,7 @@ with contents:
  - frozen_inference_graph.pb
  + saved_model (a directory)
 """
-import tensorflow as tf
-from google.protobuf import text_format
-from object_detection import exporter
-from object_detection.protos import pipeline_pb2
+
 
 import sys
 sys.path.append('..')
@@ -80,6 +77,12 @@ currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentfram
 parentdir = os.path.dirname(currentdir)
 sys.path.insert(0, parentdir)
 sys.path.insert(0, parentdir+"/slim")
+
+import tensorflow as tf
+from google.protobuf import text_format
+from object_detection import exporter
+from object_detection.protos import pipeline_pb2
+
 
 slim = tf.contrib.slim
 flags = tf.app.flags
