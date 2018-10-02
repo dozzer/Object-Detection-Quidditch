@@ -1,5 +1,5 @@
 <annotation>
-<folder>test</folder>
+<folder>json</folder>
 <filename>_DSC4168_E8uzeNxFLG.jpg</filename>
 <source>
 	<database>Unknown</database>
@@ -18,7 +18,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>383</xmin>
-		<xmax>447</xmax>
+		<xmax>446</xmax>
 		<ymin>447</ymin>
 		<ymax>501</ymax>
 	</bndbox>

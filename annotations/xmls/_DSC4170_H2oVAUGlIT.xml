@@ -1,5 +1,5 @@
 <annotation>
-<folder>train</folder>
+<folder>json</folder>
 <filename>_DSC4170_H2oVAUGlIT.jpg</filename>
 <source>
 	<database>Unknown</database>
@@ -18,7 +18,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>0</xmin>
-		<xmax>79</xmax>
+		<xmax>38</xmax>
 		<ymin>79</ymin>
 		<ymax>159</ymax>
 	</bndbox>

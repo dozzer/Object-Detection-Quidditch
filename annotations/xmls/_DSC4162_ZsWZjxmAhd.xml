@@ -1,5 +1,5 @@
 <annotation>
-<folder>train</folder>
+<folder>json</folder>
 <filename>_DSC4162_ZsWZjxmAhd.jpg</filename>
 <source>
 	<database>Unknown</database>
@@ -18,7 +18,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>0</xmin>
-		<xmax>367</xmax>
+		<xmax>128</xmax>
 		<ymin>367</ymin>
 		<ymax>506</ymax>
 	</bndbox>
@@ -31,7 +31,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>0</xmin>
-		<xmax>383</xmax>
+		<xmax>40</xmax>
 		<ymin>383</ymin>
 		<ymax>511</ymax>
 	</bndbox>
@@ -44,7 +44,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>0</xmin>
-		<xmax>263</xmax>
+		<xmax>168</xmax>
 		<ymin>263</ymin>
 		<ymax>431</ymax>
 	</bndbox>
@@ -57,7 +57,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>83</xmin>
-		<xmax>248</xmax>
+		<xmax>216</xmax>
 		<ymin>248</ymin>
 		<ymax>461</ymax>
 	</bndbox>
@@ -70,7 +70,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>215</xmin>
-		<xmax>354</xmax>
+		<xmax>362</xmax>
 		<ymin>354</ymin>
 		<ymax>497</ymax>
 	</bndbox>
@@ -83,7 +83,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>125</xmin>
-		<xmax>463</xmax>
+		<xmax>310</xmax>
 		<ymin>463</ymin>
 		<ymax>511</ymax>
 	</bndbox>

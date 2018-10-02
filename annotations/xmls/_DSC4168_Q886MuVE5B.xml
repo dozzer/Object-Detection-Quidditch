@@ -1,5 +1,5 @@
 <annotation>
-<folder>test</folder>
+<folder>json</folder>
 <filename>_DSC4168_Q886MuVE5B.jpg</filename>
 <source>
 	<database>Unknown</database>
@@ -18,7 +18,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>226</xmin>
-		<xmax>432</xmax>
+		<xmax>335</xmax>
 		<ymin>432</ymin>
 		<ymax>511</ymax>
 	</bndbox>
@@ -31,7 +31,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>325</xmin>
-		<xmax>432</xmax>
+		<xmax>379</xmax>
 		<ymin>432</ymin>
 		<ymax>492</ymax>
 	</bndbox>

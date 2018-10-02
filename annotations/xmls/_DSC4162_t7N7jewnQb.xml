@@ -1,5 +1,5 @@
 <annotation>
-<folder>train</folder>
+<folder>json</folder>
 <filename>_DSC4162_t7N7jewnQb.jpg</filename>
 <source>
 	<database>Unknown</database>
@@ -18,7 +18,7 @@
 	<occluded>Unspecified</occluded>
 	<bndbox>
 		<xmin>301</xmin>
-		<xmax>474</xmax>
+		<xmax>383</xmax>
 		<ymin>474</ymin>
 		<ymax>511</ymax>
 	</bndbox>
