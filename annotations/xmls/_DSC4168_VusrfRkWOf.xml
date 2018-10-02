@@ -24,7 +24,7 @@
 	</bndbox>
 </object>
 <object>
-	<name>Fallopia-Сonvolvulus-poly</name>
+	<name>Fallopia-Convolvulus-poly</name>
 	<pose>Unspecified</pose>
 	<truncated>Unspecified</truncated>
 	<difficult>Unspecified</difficult>
@@ -37,7 +37,7 @@
 	</bndbox>
 </object>
 <object>
-	<name>Fallopia-Сonvolvulus-poly</name>
+	<name>Fallopia-Convolvulus-poly</name>
 	<pose>Unspecified</pose>
 	<truncated>Unspecified</truncated>
 	<difficult>Unspecified</difficult>
